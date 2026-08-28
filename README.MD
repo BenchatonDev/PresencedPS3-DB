@@ -43,7 +43,11 @@ When naming you icon file there are a few things to consider, first it needs to 
 
 ### Already there ?
 
-As of now, the addition of new tittles is really manual and tedious, a fancy helper script with good human supervision features would go a long way streamlining the contributing process, sadly I have no idea how to do that but please don't make it 100% using *"AI"* else it would already exist in the repo.
+Some Icons may act as "Place holders" of sorts, currently icons that need rework are:
+- [`XMB.jpg`](icons/XMB.jpg): The main menu, also known as VSH I think
+- [`PS1.jpg`](icons/PS1.jpg): Icon used when playing any PS1 game
+
+Else you can also contribute with code since as of now the addition of new titles is really manual and tedious, a fancy helper script with good human supervision features would go a long way streamlining the contributing process, sadly I have no idea how to do that but please don't make it 100% using *"AI"* else it would already exist in the repo.
 
 # Acknowledgements
 - [Aldostools](https://github.com/aldostools) Providing a nice and easely browsable TitleID database
