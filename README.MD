@@ -2,7 +2,7 @@
 
 A set of json files to map PS3 and PSP TitleIDs to 512x512 icons for [Presenced](https://github.com/BenchatonDev/Presenced).
 
-> [!Attention]
+> [!Note]
 > This is just for legal context but this repo only hosts images and a way to link a game to one of said images. It does NOT claim ANY of it's content under a license, by default and by Github's TOS any repo without a `LICENSE` file is classified as *`All Rights Reserved`*. This notice is here to clarify that it's not the case here since I can't just re-license the work of other as my own under any license other than the original one unless compatible or with authorization from the artist or IP holder
 
 # How to help ?
